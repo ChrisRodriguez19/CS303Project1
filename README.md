@@ -31,4 +31,4 @@ When you type in add it ask you for a number you want to add then adds it to the
 
 
 ![image](https://github.com/user-attachments/assets/27e45d49-5f31-47fd-b977-d376ea57afd4)
-Tpying in exit quits the code
+Typing in exit quits the code
